@@ -1,0 +1,73 @@
+body
+{
+    background: #08bda5;
+    font-size: 30px;
+    text-align: center;
+}
+#anadiv
+{
+    background: white;
+    margin: 0 auto;
+    width: 800px;
+}
+#logo
+{
+    float: left;
+    width: 180px;
+    height: 150px;
+    border: 2px solid rgb(9, 102, 79);
+    margin-right: 10px;
+    text-align: center;
+
+}
+#menu
+{
+    float: right;
+    width: 500px;
+    height: 40px;
+    border: 2px solid rgb(185, 10, 10);
+    margin-top: 100px;
+}
+#slider
+{
+    height: 150px;
+    width: 797;
+    border: 2px solid blue;
+    margin-top: 10px;
+}
+#uckutudiv
+{
+    border: 2px solid rgb(16, 143, 33);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.uckutu
+{
+    height: 200px;
+    float: left;
+    width: 249px;
+    border: 2px solid rgb(179, 79, 12);
+    margin: 6px;
+}
+#dortkutudiv
+{
+border: 2px solid rgb(175, 16, 37);
+margin-bottom: 10px;
+}
+.dortkutu
+{
+height: 150px;
+width: 180px;
+border: 2px solid rgb(107, 11, 145);
+margin: 7px;
+float: left;
+}
+#alt
+{
+height: 50px;
+border: 2px solid rgb(139, 116, 10);
+}
+.temizle
+{
+    clear: both;
+}
